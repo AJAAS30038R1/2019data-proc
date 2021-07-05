@@ -1,0 +1,12 @@
+##id,         sptypesim,     first   nframe   namefile,              type      sptype temp      name,   rah, ram, ras,      decg, decm, decs,   airmass
+gamAql          spectra        00001     10   gamAql.fits            target      K3II  99999   Hip93732  19 46 15.5802908    +10 36 47.740788     1.04  1.853   8   5    14.824 29.65  coordsimbad
+Hip93732        spectra        00011     10   Hip93732.fits          STD         B3V   18700   Hip91038  19 05 08.5456223139 +09 38 31.676700004  1.02  29.65   1   5    29.65  29.65  coordsimbad
+2MASSJ18442147  spectra        00030     10   2MASSJ18442147.fits    target      K2Iab 99999   Hip91038  18 44 21.4721716602 -04 34 46.027479791  1.39  89.89   1   5    89.89  89.89  coordsimbad                             
+Hip91038        spectra        00040      6   Hip91038.fits          STD         B2II  18500   Hip93732  18 34 15.8448301524 -04 48 48.865630339  1.59  89.89   1   3    89.89  89.89  coordsimbad
+2MASSJ18424927  spectra        00046      9   2MASSJ18424927.fits    target      K1Iab 99999   Hip91038  18 42 49.2714582687 -04 45 09.629471028  1.66  49.58   1   5    49.58  89.89  aborted last frame  coordsimbad                        
+Hip93509        spectra        00055      6   hip93509.fits          STD-g       none  99999   default   19 02 38.0428804252 +14 34 01.421588764  1.41  19.92   1   3    19.92  19.92  coordsimbad 
+HD200945        spectra        00067     10   hd200945.fits          target      K2    99999   Hip112698 21 04 57.6189193899 +47 08 49.159009108  1.17  4.634   4   5    18.536 89.89  coordsimbad
+HD221246        spectra        00077     10   hd221246.fits          target      K3III 99999   Hip112698 23 30 07.4132978085 +49 07 59.323236712  1.17  2.780   5   5    13.90  89.89  coordsimbad
+Hip112698       spectra        00087      6   Hip112698.fits         STD         B1V   24150   none      22 49 17.6772171600 +47 55 48.253303636  1.13  89.89   1   3    89.89  89.89  coordsimbad
+HD194193        spectra        00099     10   hd194193.fits          target      K7III 99999   Hip104548 20 22 45.2960416342 +41 01 33.642812107  1.32  0.927   5   5     4.64  59.77  coordsimbad    
+Hip104548       spectra        00109      6   Hip104548.fits         STD         B1V   24150   none      21 10 38.5497333819 +38 57 40.322326165  1.19  59.77   1   3    59.77  59.77
